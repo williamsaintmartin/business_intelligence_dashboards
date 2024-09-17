@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-I want to present Business Intelligence dashboards.
+I want to present some Business Intelligence dashboards.
 
 ## Technologies Used
 
